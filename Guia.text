@@ -1,0 +1,6 @@
+Escuchar los eventos de los btn : //Eventos: Para escuchar algun evento seria con addEventListener (dos parametros evento y 
+un callback)
+
+Agregar variables para los puntos del jugador
+Llevar el valor puntosJugador al primer small del jugador: Crear referencia html
+Crear referencia de las imagenes
